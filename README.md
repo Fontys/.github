@@ -1,3 +1,3 @@
-# Fontys
+# General
 
-Fontys University of Applied Sciences.
+The is the Fontys University of Applied Sciences general repository.
